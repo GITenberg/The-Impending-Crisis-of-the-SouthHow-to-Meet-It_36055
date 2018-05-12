@@ -1,0 +1,29 @@
+_repo: The-Impending-Crisis-of-the-SouthHow-to-Meet-It_36055
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Helper, Hinton Rowan
+    birthdate: 1829
+    deathdate: 1909
+    gutenberg_agent_id: '38062'
+    url: http://www.gutenberg.org/2009/agents/38062
+description: ''
+gutenberg_issued: '2011-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36055'
+  lccn: '18018259'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Slavery -- United States'
+title: 'The Impending Crisis of the South
+
+  How to Meet It'
+url: http://www.gutenberg.org/ebooks/36055
