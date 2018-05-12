@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '38062'
     url: http://www.gutenberg.org/2009/agents/38062
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36055#The-Impending-Crisis-of-the-SouthHow-to-Meet-It
 gutenberg_issued: '2011-05-08'
 gutenberg_type: Text
 identifiers:
